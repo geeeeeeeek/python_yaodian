@@ -9,7 +9,7 @@
 
 ### 演示地址
 
-http://yaopin.gitapp.cn
+http://yaodian.gitapp.cn
 
 演示帐号：
 
